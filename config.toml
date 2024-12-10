@@ -37,3 +37,5 @@ email = "punchagan+blog@muse-amuse.in"
 [Params.author]
 name = "punchagan"
 nick = "punchagan"
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
